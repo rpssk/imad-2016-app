@@ -14,7 +14,7 @@ app.get('/s1', function(req,res) {
 });
 
 app.get('/sen',function(req,res) {
-    res.send('hai my first app from senthil kumae');
+    res.send('hai my first app from senthil kumar');
 });
 
 app.get('/ui/style.css', function (req, res) {
